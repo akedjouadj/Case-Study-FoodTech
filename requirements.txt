@@ -1,0 +1,8 @@
+transformers == 4.25.1
+torch == 1.13.1
+sentencepiece == 0.1.97
+spacy == 3.5.0
+fr-core-news-md == 3.5.0
+streamlit == 1.17.0
+typing == 3.7.4.3
+
